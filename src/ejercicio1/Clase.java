@@ -2,7 +2,7 @@ package ejercicio1;
 
 public class Clase extends ItemBiblioteca {
     private int anioPublicacion;
-    private int numeroPaginas;
+    private int paginasDelLibro;
 
     public Clase (String titulo, String autor, int anioPublicacion, int numeroPaginas){
         super(titulo,autor);
