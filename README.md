@@ -30,7 +30,7 @@ Creamos una nueva clase de ejemplo para añadir a la nueva *branch* y poder prob
 
 Modificamos atributos de la clase que hemos añadido para ver las diferencias entre el repositorio local y el repositorio remoto
 
-![Diff](recursos\Imagen1.png)
+![Diff](recursos/Imagen1.png)
 
 ### 7. Ver log de cambios
 
